@@ -1,0 +1,7 @@
+C:\Users\1386466\Desktop\2D-Array-User-Input\2D-Array-User-Input\bin\Debug\2D-Array-User-Input.exe.config
+C:\Users\1386466\Desktop\2D-Array-User-Input\2D-Array-User-Input\bin\Debug\2D-Array-User-Input.exe
+C:\Users\1386466\Desktop\2D-Array-User-Input\2D-Array-User-Input\bin\Debug\2D-Array-User-Input.pdb
+C:\Users\1386466\Desktop\2D-Array-User-Input\2D-Array-User-Input\obj\Debug\2D-Array-User-Input.csprojAssemblyReference.cache
+C:\Users\1386466\Desktop\2D-Array-User-Input\2D-Array-User-Input\obj\Debug\2D-Array-User-Input.csproj.CoreCompileInputs.cache
+C:\Users\1386466\Desktop\2D-Array-User-Input\2D-Array-User-Input\obj\Debug\2D-Array-User-Input.exe
+C:\Users\1386466\Desktop\2D-Array-User-Input\2D-Array-User-Input\obj\Debug\2D-Array-User-Input.pdb
