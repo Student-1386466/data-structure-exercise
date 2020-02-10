@@ -1,0 +1,7 @@
+C:\Users\1386466\Desktop\record\record\bin\Debug\record.exe.config
+C:\Users\1386466\Desktop\record\record\bin\Debug\record.exe
+C:\Users\1386466\Desktop\record\record\bin\Debug\record.pdb
+C:\Users\1386466\Desktop\record\record\obj\Debug\record.csprojAssemblyReference.cache
+C:\Users\1386466\Desktop\record\record\obj\Debug\record.csproj.CoreCompileInputs.cache
+C:\Users\1386466\Desktop\record\record\obj\Debug\record.exe
+C:\Users\1386466\Desktop\record\record\obj\Debug\record.pdb
