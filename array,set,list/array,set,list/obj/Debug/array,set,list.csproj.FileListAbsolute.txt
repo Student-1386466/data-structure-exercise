@@ -1,0 +1,7 @@
+C:\Users\1386466\Desktop\array,set,list\array,set,list\bin\Debug\array,set,list.exe.config
+C:\Users\1386466\Desktop\array,set,list\array,set,list\bin\Debug\array,set,list.exe
+C:\Users\1386466\Desktop\array,set,list\array,set,list\bin\Debug\array,set,list.pdb
+C:\Users\1386466\Desktop\array,set,list\array,set,list\obj\Debug\array,set,list.csprojAssemblyReference.cache
+C:\Users\1386466\Desktop\array,set,list\array,set,list\obj\Debug\array,set,list.csproj.CoreCompileInputs.cache
+C:\Users\1386466\Desktop\array,set,list\array,set,list\obj\Debug\array,set,list.exe
+C:\Users\1386466\Desktop\array,set,list\array,set,list\obj\Debug\array,set,list.pdb
